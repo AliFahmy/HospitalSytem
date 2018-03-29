@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA8C5FF0-F310-40BA-891A-B6578CD4D1D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hospital</RootNamespace>
+    <AssemblyName>Hospital</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="findbydisease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="findbydisease.Designer.cs">
+      <DependentUpon>findbydisease.cs</DependentUpon>
+    </Compile>
+    <Compile Include="findbydoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="findbydoc.Designer.cs">
+      <DependentUpon>findbydoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newdoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newdoctor.Designer.cs">
+      <DependentUpon>newdoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newpatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newpatient.Designer.cs">
+      <DependentUpon>newpatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patient.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="findbydisease.resx">
+      <DependentUpon>findbydisease.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="findbydoc.resx">
+      <DependentUpon>findbydoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newdoctor.resx">
+      <DependentUpon>newdoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newpatient.resx">
+      <DependentUpon>newpatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25440683_10213434893801147_4330326_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25436575_10213434892001102_788980545_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_new-doctor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_new-patient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_new-doctor %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_find-by-disease.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_find-by-doctor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_exit %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_exit %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor-medical-medicine-health-42273.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor-medical-medicine-health-422731.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-appointment-doctor-healthcare-40568 copy copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25465770_1928419614042764_72504135_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25465853_1928419437376115_1165748018_n.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

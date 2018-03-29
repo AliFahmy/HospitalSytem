@@ -1,0 +1,65 @@
+c:\users\pc castle\documents\visual studio 2013\Projects\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.home.resources
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.newdoctor.resources
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.newpatient.resources
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.findbydisease.resources
+C:\Users\PC Castle\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.findbydoc.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Ali\Desktop\file\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\Ali\Desktop\file\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.findbydisease.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.findbydoc.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.home.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.newdoctor.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.newpatient.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.findbydisease.resources
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.findbydoc.resources
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.home.resources
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.newdoctor.resources
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.newpatient.resources
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\PC Castle\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\PC Castle\Desktop\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\PC Castle\Desktop\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\PC Castle\Desktop\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.findbydisease.resources
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.findbydoc.resources
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.home.resources
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.newdoctor.resources
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.newpatient.resources
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\PC Castle\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.findbydisease.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.findbydoc.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.home.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.newdoctor.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.newpatient.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\Ali\Desktop\file\Hospital\Hospital\Hospital\bin\Debug\Hospital.pdb
